@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Uixml>
+	
+  <Graphic id="graphic" color="0x333333" width="{stage.stageWidth}" height="{stage.stageHeight}" />
+  
+  <Text id="question" text="What's on your Mind?" width="1150" height="230" fontSize="24" lineSpacing="-3" font="ArialFont" x="30" y="30 " multiline="true" wordWrap="true" textColor="0xffffff" align="left"/>
+  
+  <Image id="image" src="library/assets/scene.jpg" x="200" y="200" />
+  
+</Uixml>
